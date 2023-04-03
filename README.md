@@ -55,7 +55,7 @@ Don't Come To Me And Blame Me For It
 
 First Clone The Repostory With "git clone"
 ```bash
-git clone https://www.github.com/BiZken/PhishMailer.git
+git clone https://github.com/DARKSTUFF-LAB/PhishMailer.git
 ```
 Then Go To The PhishMailer Folder And Change Permission On "PhishMailer" (If You Ain't Root)
 ```python
